@@ -40,8 +40,22 @@ Sou desenvolvedor apaixonado por criar soluções eficientes e com foco em quali
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-l-reis/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexreisbrsil@gmail.com)
 
 ---
+
+## ☕ Apoie meu trabalho
+Se você gostou dos meus projetos e quer apoiar meu trabalho, pode fazer uma doação:  
+
+[![Doe via Pix](https://img.shields.io/badge/Pix-32BCAD?style=for-the-badge&logo=pix&logoColor=white)](#)  
+📌 Chave Pix: `alexreisbrsil@gmail.com`
+
+[![Doe em Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.blockchain.com/explorer/address/bc1qxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)  
+📌 BTC: `15AVWDBizRd1S8hFi78tgvQ89TqT768eLL`  
+
+[![Doe USDT via Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=black)](#)  
+📌 Endereço da carteira (TRC20):  
+`TJyPK68wutmg9jWwf5Wb8GfPDNwmED6bfa`
+
 ✨ Obrigado por visitar meu perfil!
