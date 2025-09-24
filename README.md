@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá, eu sou Alex Reis
 
+Bem-vindo ao meu perfil no GitHub! 🚀  
+Sou desenvolvedor apaixonado por criar soluções eficientes e com foco em qualidade, usando tecnologias modernas no **frontend** e **backend**.
+
+---
+
+## 🚀 Sobre mim
+- 💻 Atualmente trabalho com **Angular**, **Spring Boot** e **PostgreSQL**
+- 🏗️ Experiência prévia com **Java JSF** e **PrimeFaces**
+- 🎯 Buscando evoluir constantemente em arquitetura de software, boas práticas e design de sistemas
+- ⚡ Curiosidade: Nerd clássico 80´s amante de tudo quanto é tralha tecnológica!!!
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JSF](https://img.shields.io/badge/JSF-323330?style=flat&logo=java&logoColor=white)
+![PrimeFaces](https://img.shields.io/badge/PrimeFaces-20232A?style=flat&logo=java&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
 <!--
-**al3xr3is/al3xr3is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📂 Projetos em destaque
+- 🔗 [**Projeto 1**](https://github.com/alexreisbrasil/projeto1) – breve descrição
+- 🔗 [**Projeto 2**](https://github.com/alexreisbrasil/projeto2) – breve descrição
+- 🔗 [**Projeto 3**](https://github.com/alexreisbrasil/projeto3) – breve descrição
 -->
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexreisbrasil&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexreisbrasil&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+✨ Obrigado por visitar meu perfil!
